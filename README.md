@@ -3,7 +3,7 @@
 
 ## Instructions
 
-This challenge involves analyzing school performance data using the pandas library in Python. To see this code in action clone the respository. You can see the difference in the starting point of this assignment by looking at the [PyCitySchools_starter.ipynd](https://github.com/myhre062/pandas-challenge/blob/main/PyCitySchools/PyCitySchools_starter.ipynb) file. You can see the work I contributed in the [PyCitySchools_completed.ipynd] (https://github.com/myhre062/pandas-challenge/blob/main/PyCitySchools/PyCitySchools_completed.ipynb) file. To interact with the code navigate to the spot where you cloned the project in your terminal. Once you are in the **pandas-challenge** folder run the command **jupyter notebook**. (The most recent version of jupyter notebook should be installed on your machine for the best performance.)
+This challenge involves analyzing school performance data using the pandas library in Python. To see this code in action clone the respository. You can see the difference in the starting point of this assignment by looking at the [PyCitySchools_starter.ipynd](https://github.com/myhre062/pandas-challenge/blob/main/PyCitySchools/PyCitySchools_starter.ipynb) file. You can see the work I contributed in the [PyCitySchools_completed.ipynd](https://github.com/myhre062/pandas-challenge/blob/main/PyCitySchools/PyCitySchools_completed.ipynb) file. To interact with the code navigate to the spot where you cloned the project in your terminal. Once you are in the **pandas-challenge** folder run the command **jupyter notebook**. (The most recent version of jupyter notebook should be installed on your machine for the best performance.)
 
 ### Dependencies
 - pandas
@@ -17,7 +17,7 @@ This challenge involves analyzing school performance data using the pandas libra
 
 ### Summary
 
-The provided analysis script [PyCitySchools_completed.ipynd] (https://github.com/myhre062/pandas-challenge/blob/main/PyCitySchools/PyCitySchools_completed.ipynb) explores various aspects of school data, focusing on Charter vs. District schools, the impact of school size, grade levels, school spending, and more.
+The provided analysis script [PyCitySchools_completed.ipynd](https://github.com/myhre062/pandas-challenge/blob/main/PyCitySchools/PyCitySchools_completed.ipynb) explores various aspects of school data, focusing on Charter vs. District schools, the impact of school size, grade levels, school spending, and more.
 
 #### Key Findings:
 1. **Charter vs. District Schools:**
